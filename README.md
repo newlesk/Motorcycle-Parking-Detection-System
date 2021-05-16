@@ -7,8 +7,10 @@
  Firebase
  React
 
-ปริญญานิพนธ์เรื่อง       ระบบตรวจสอบที่ว่างของที่จอดรถจักรยานยนต์ภายในสาขาวิศวกรรม 			คอมพิวเตอร์ 
-ชื่อนักศึกษา                นายกฤติพงศ์	วชิรางกุล
+ปริญญานิพนธ์เรื่อง       ระบบตรวจสอบที่ว่างของที่จอดรถจักรยานยนต์ภายในสาขาวิศวกรรมคอมพิวเตอร์ 
+
+ชื่อนักศึกษา                
+นายกฤติพงศ์	วชิรางกุล
 นายชนม์แดน	อุตตาลกาญจนา
 นายชนชนันท์	หาวา
 นายวรภพ	โสมนัส
@@ -24,10 +26,11 @@
 
 
 Project Title	Motorcycle Parking Detection System for Computer Engineer Department
-Students		MR. Krittipong		Wachirangkul
+Students		
+MR. Krittipong		Wachirangkul
 MR. Chondan		Audtankarnjana
 MR. Chonchanan	Hawa
-			MR. Woraphob 	Somanut
+MR. Woraphob 	Somanut
 Project Advisor	MR. Pratch  		Piyawongwisal
 Curriculum		Bachelor of Engineering 
 Major Field		Computer Engineering
